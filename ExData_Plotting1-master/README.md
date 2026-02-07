@@ -1,6 +1,6 @@
 ## Introduction
 
-I have project for the Coursera Course <a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a> Module 1, Course project 1
+I have made this project for the Coursera Course <a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a> Module 1, Course project 1
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
